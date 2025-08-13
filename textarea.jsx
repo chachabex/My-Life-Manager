@@ -1,3 +1,1 @@
-export function Textarea({className='', ...props}){
-  return <textarea className={`textarea ${className}`} {...props} />
-}
+export function Textarea({className='',...props}){return <textarea className={`textarea ${className}`} {...props} />}

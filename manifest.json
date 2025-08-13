@@ -1,6 +1,6 @@
 {
-  "name": "Life OS – Chacha",
-  "short_name": "Life OS",
+  "name": "My Life Manager",
+  "short_name": "MyLife",
   "start_url": ".",
   "scope": "/",
   "display": "standalone",
